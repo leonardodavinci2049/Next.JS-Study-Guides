@@ -1,8 +1,5 @@
-Claro! Aqui está o conteúdo do guia completo sobre **Suspense no Next.js 15+** no formato Markdown. Você pode copiar e colar diretamente em um arquivo `.md`:
 
----
 
-````markdown
 # Guia Completo do Suspense no Next.js 15+
 
 ## 1. Introdução ao Suspense no Next.js
@@ -218,7 +215,3 @@ const Map = dynamic(() => import('./Map'), {
 * [https://nextjs.org/docs/app/building-your-application/routing/loading-ui](https://nextjs.org/docs/app/building-your-application/routing/loading-ui)
 * [https://react.dev/reference/react/Suspense](https://react.dev/reference/react/Suspense)
 * [https://beta.reactjs.org/apis/react/Suspense](https://beta.reactjs.org/apis/react/Suspense)
-
-```
-
-
